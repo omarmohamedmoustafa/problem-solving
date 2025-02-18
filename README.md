@@ -41,10 +41,10 @@ Here are my profiles on both platforms:
 
 ### Problems Solved
 
-| Platform   | Easy | Medium | Hard | Total   |
-| ---------- | ---- | ------ | ---- | ------- |
-| LeetCode   | `2`  | `2`    | `0`  | `4`     |
-| HackerRank | `A`  | `B`    | `C`  | `A+B+C` |
+| Platform   | Easy | Medium | Hard | Total |
+| ---------- | ---- | ------ | ---- | ----- |
+| LeetCode   | `2`  | `2`    | `0`  | `4`   |
+| HackerRank | `18` | `6`    | `0`  | `24`  |
 
 ---
 
